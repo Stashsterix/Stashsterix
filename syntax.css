@@ -1,0 +1,146 @@
+h1{ border: 2px 
+    color: purple;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+body{
+    background-color: purple;
+    margin: 0px;
+    padding: 0px;
+}
+ 
+
+
+div#comment-section{
+    color: brown;
+}
+p:last-child{
+    color: blue;
+}
+a:hover{
+    color: yellow;
+    font-family: arial;
+}
+a:visited{
+    color: deeppink;
+    font-style: italic;
+}
+p:hover{
+    color: aqua;
+}
+body:hover{
+    font-displaybold;
+    color:aqua;
+}
+
+#scroll-container{ 
+    border:5px solid black;
+    border
+    overflow: hidden;
+    width: 10%;
+}
+
+}
+.box{
+    margin: auto;
+    padding: 40px;
+    border: 12px solid #dd1313;    
+    width: 400px;
+    background-color: cyan;
+    display: inline-block;
+}
+.one{
+    height: 15px;
+    width: 50px;
+    border-radius: 10px;
+    border:5px dashed blue;
+    background-color: cornflowerblue;
+    display:inline-block;
+    margin: 3px;
+    
+        
+}
+.two{
+    height: 30px;
+    width: 8%;
+    margin-left: 30px;
+    border: 5px groove blue;
+    background-color: cornflowerblue;
+}
+#main-navigation{
+    padding: 10px;
+     margin: 0px ;
+background: #171515;
+background: -moz-linear-gradient(top, #272323 0%, #000000 100%);
+background: -webkit-linear-gradient(top, #272323 0%, #000000 100%);
+background: linear-gradient(top, #272323 0% #000000 100%);    
+}
+
+#main-navigation li{
+    display: inline-block;
+    margin-right: 15px;
+    padding:5px;
+}
+
+#main-navigation a{
+    border: 3px groove blue;
+    text-decoration: none;
+    color: #B12341;
+}
+
+.banner{
+    
+    background: url(../img/focus.jpg);
+    height: 500px;
+    width: 100%;
+    
+    background-position: center;
+    background-size: 1000px;
+    margin: 0px 0px;
+    padding: 250px 0px;
+    border: 0px 200px;
+    background
+    
+}
+
+.banner form{
+    margin-top: 500px;
+    text-align:left;
+}
+
+#types{
+    background-color: crimson;
+    margin: 10px;
+    border-radius: 10px;
+    border:5px solid dimgrey;
+    box-shadow: 2px 2px 7px 8px #830a57;
+}
+#about{
+    background-color: darkorchid;
+margin: 10px;
+    box-shadow: 2px 2px 6px 7px #000000;
+}
+
+#contact{
+    background-color: darkmagenta;
+    border: 8px  #837509;
+    border-radius: 8px;
+    margin: 0px 10px;
+        border-style: ridge;
+    box-shadow: 2px 2px 8px 8px rgba(30,30,50,0.8);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
